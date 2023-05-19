@@ -1,0 +1,25 @@
+{
+  "name": "qap1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jay-lodge/QAP1.git"
+  },
+  "author": "Jayden Lodge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jay-lodge/QAP1/issues"
+  },
+  "homepage": "https://github.com/jay-lodge/QAP1#readme",
+  "keywords": [],
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
+
+
